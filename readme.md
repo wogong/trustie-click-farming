@@ -1,4 +1,4 @@
-# trustie_click_farming
+# Trustie click farming
 
 ## need
 1. cookies
